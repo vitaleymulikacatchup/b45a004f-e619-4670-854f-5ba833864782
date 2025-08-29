@@ -12,7 +12,6 @@ export default function Home() {
       <NavbarBase 
         logoSrc="/images/logo.svg"
         logoAlt="MemeCoin Logo"
-        brandName="MemeCoin"
         leftButtonText="Menu"
         rightButtonText="Buy MEME"
         onLeftButtonClick={() => {}}
